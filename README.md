@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 03/12/2024
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -21,8 +21,8 @@
 ###  Assume scale 1:10
 ###  1. Draw a horizontal line and locate C 
 ###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diag
-![Screenshot 2024-12-03 at 18 27 21_2295f30b](https://github.com/user-attachments/assets/bf14235a-4b43-4a2a-8fe1-75d091d94935)
+###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram
+![Screenshot 2024-12-03 at 18 27 21_e504e9fb](https://github.com/user-attachments/assets/1da00271-bfdd-40aa-af88-e7628088a265)
 
 
 ## Velocity diagram
@@ -34,7 +34,7 @@
 ![Screenshot 2024-12-03 at 18 27 22_70cc0fee](https://github.com/user-attachments/assets/b71262ed-6733-4a5e-bb25-da6faec8eda9)
 
 ## Output
-![WhatsApp Image 2024-12-03 at 18 27 22_7d556511](https://github.com/user-attachments/assets/5e951e9d-632c-4a22-b62c-5fc3e88bd987)
+![Screenshot 2024-12-03 at 18 27 22_7d556511](https://github.com/user-attachments/assets/5e951e9d-632c-4a22-b62c-5fc3e88bd987)
 
 
 ### Name:Jassir Sulthan K
